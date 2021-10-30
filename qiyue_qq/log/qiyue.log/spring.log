@@ -1,0 +1,16 @@
+2021-10-30 01:28:27.223  INFO 3056 --- [main] t.q.qiyueclient.QiyueClientApplication   : Starting QiyueClientApplication using Java 1.8.0_291 on DESKTOP-6LR8P0L with PID 3056 (B:\Program Files\code_Cache\IDEA_ProjectFiles\qiyue_qq\qiyue_qq\qiyueClient\target\classes started by qiangqiang in B:\Program Files\code_Cache\IDEA_ProjectFiles\qiyue_qq\qiyue_qq)
+2021-10-30 01:28:27.225  INFO 3056 --- [main] t.q.qiyueclient.QiyueClientApplication   : No active profile set, falling back to default profiles: default
+2021-10-30 01:28:27.575  INFO 3056 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 01:28:27.587  INFO 3056 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2021-10-30 01:28:27.920  INFO 3056 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-10-30 01:28:27.977  INFO 3056 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-10-30 01:28:28.146  INFO 3056 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-10-30 01:28:28.248  INFO 3056 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-10-30 01:28:28.384  INFO 3056 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-10-30 01:28:28.405  INFO 3056 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2021-10-30 01:28:28.987  INFO 3056 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-10-30 01:28:28.995  INFO 3056 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 01:28:29.125  INFO 3056 --- [main] t.q.qiyueclient.QiyueClientApplication   : Started QiyueClientApplication in 2.336 seconds (JVM running for 3.192)
+2021-10-30 01:28:29.130  INFO 3056 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 01:28:29.133  INFO 3056 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-10-30 01:28:29.137  INFO 3056 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
